@@ -1,0 +1,967 @@
+{
+  "vaultName": "EORA",
+  "lastExport": 1735773702976,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager native-scrollbars theme-light show-inline-title show-ribbon basic-pathfinder-2e-layout-theme-default pathfinder-2e-action-layout-theme-default pathfinder-2e-hazard-layout-theme-default pathfinder-2e-influence-layout-theme-default pathfinder-2e-misc-layout-theme-default pathfinder-2e-quest-layout-theme-default pathfinder-2e-settlement-layout-theme-default check-color check-bg wotc-beyond",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "1. Scratch Notes/Session Recaps/SESSION 1 RECAP.md",
+    "1. Scratch Notes/Session Recaps/SESSION 2 RECAP.md",
+    "1. Scratch Notes/Session Recaps/SESSION 3 RECAP.md",
+    "1. Scratch Notes/Session Recaps/SESSION 4 RECAP.md",
+    "1. Scratch Notes/Session Recaps/SESSION 4.5 RECAP.md",
+    "1. Scratch Notes/Session Recaps/SESSION 5 RECAP.md",
+    "1. Scratch Notes/Session Recaps/SESSION 6 RECAP.md",
+    "1. Scratch Notes/Session Recaps/SESSION 7 RECAP.md",
+    "1. Scratch Notes/Session Recaps/SESSION 8 RECAP.md",
+    "1. Scratch Notes/Vault Upkeep.md",
+    "1. Scratch Notes/Worldbuilding.md",
+    "2. World/2.1 Timelines/Eora Timeline.md",
+    "2. World/2.1 Timelines/Queens Timeline.md",
+    "2. World/2.2 History/Events/for timeline/for timeline - queen births.md",
+    "2. World/2.2 History/Events/for timeline/for timeline - queen deaths.md",
+    "2. World/2.2 History/Events/for timeline/for timeline - queen rules.md",
+    "2. World/2.2 History/Events/for timeline/for timeline - the lost one.md",
+    "2. World/2.2 History/Events/Princess Esemone is Kidnapped.md",
+    "2. World/2.2 History/Events/The Condemnation.md",
+    "2. World/2.2 History/Events/The Scorched Petals.md",
+    "2. World/2.3 Geography/Cities/Amaryllis.md",
+    "2. World/2.3 Geography/Cities/Anemone.md",
+    "2. World/2.3 Geography/Cities/Edelweiss.md",
+    "2. World/2.3 Geography/Cities/Hollyhock.md",
+    "2. World/2.3 Geography/Cities/Valerian.md",
+    "2. World/2.3 Geography/Landmarks/a satellite temple of The Inventor.md",
+    "2. World/2.3 Geography/Landmarks/The Exhibit.md",
+    "2. World/2.3 Geography/Landmarks/The Garden.md",
+    "2. World/2.3 Geography/Landmarks/The Grand Library.md",
+    "2. World/2.3 Geography/Landmarks/The Last Line Tavern.md",
+    "2. World/2.3 Geography/Landmarks/The Oasis.md",
+    "2. World/2.3 Geography/Landmarks/The Pacific Estate.md",
+    "2. World/2.3 Geography/Landmarks/The Sky Hub.md",
+    "2. World/2.3 Geography/The Circles/The Development Circle.md",
+    "2. World/2.3 Geography/The Circles/The Farming Circle.md",
+    "2. World/2.3 Geography/The Circles/The Manufactoring Circle.md",
+    "2. World/2.3 Geography/The Circles/The Mining Circle.md",
+    "2. World/2.4 Government/2.41 Royalty/Princess Penelope.md",
+    "2. World/2.4 Government/2.41 Royalty/The 13th Queen, Queen Erza.md",
+    "2. World/2.4 Government/2.42 Queen's Cinders/The Queen's Cinders.md",
+    "2. World/2.4 Government/2.43 Speakers of Religion and Magic/Speakers of Religion and Magic.md",
+    "2. World/2.4 Government/2.44 Council of Eora/Council of Eora.md",
+    "2. World/2.4 Government/2.45 Ivory Guards/Ivory Guards.md",
+    "2. World/2.4 Government/2.46 Royal Agency of Protection/Royal Agency of Protection (AoP).md",
+    "2. World/2.5 Education/Magical Universities/Esemone, Institute of the Arcana.md",
+    "2. World/2.5 Education/Magical Universities/Tulane School of Wizardry.md",
+    "2. World/2.5 Education/Non-Magical Universities/Kindlelight University.md",
+    "2. World/2.5 Education/Non-Magical Universities/Silvervalley University.md",
+    "2. World/2.5 Education/Non-Magical Universities/Steamhelm Academy.md",
+    "2. World/2.5 Education/Non-Magical Universities/Yellowbrick University.md",
+    "2. World/2.5 Education/Non-Magical Universities/Zeppelin Flight Academy.md",
+    "2. World/2.5 Education/Other Forms of Education.md",
+    "2. World/2.6 Deities/2.61 The True Gods/Emer of the Lost Soil.md",
+    "2. World/2.6 Deities/2.61 The True Gods/Tempest, the Waterbearer.md",
+    "2. World/2.6 Deities/2.61 The True Gods/Vulcan, the Inventor.md",
+    "2. World/2.7 Organizations/2.71 Official/Circuit of Arcana.md",
+    "2. World/2.7 Organizations/2.71 Official/Guild of Mechanics.md",
+    "2. World/2.7 Organizations/2.71 Official/Woodland Clan.md",
+    "2. World/2.7 Organizations/2.72 Unofficial/Black Cloak Coalition.md",
+    "2. World/2.7 Organizations/2.72 Unofficial/The Yuan.md",
+    "3. NPCs/the last line tavern/Cel Effie**.md",
+    "3. NPCs/the last line tavern/Xavier Effie**.md",
+    "3. NPCs/Cyrus Vane**.md",
+    "3. NPCs/Russel.md",
+    "4. Extra/Pictures/AB56DC2E-442D-4CAC-80BF-D3CF50A473CF_1_201_a.heic",
+    "4. Extra/Pictures/AB56DC2E-442D-4CAC-80BF-D3CF50A473CF_1_201_a 1.heic",
+    "4. Extra/Pictures/amaryllis imagery.jpeg",
+    "4. Extra/Pictures/amaryllis map.jpeg",
+    "4. Extra/Pictures/anemone imagery.png",
+    "4. Extra/Pictures/anemone map.jpeg",
+    "4. Extra/Pictures/black dagger.jpg",
+    "4. Extra/Pictures/edelweiss imagery.png",
+    "4. Extra/Pictures/edelweiss map.jpeg",
+    "4. Extra/Pictures/HEIF Image.heic",
+    "4. Extra/Pictures/HEIF Image 1.heic",
+    "4. Extra/Pictures/HEIF Image 2.heic",
+    "4. Extra/Pictures/hollyhock imagery.jpeg",
+    "4. Extra/Pictures/hollyhock map.jpeg",
+    "4. Extra/Pictures/NPC_Cyrus Vane.jpeg",
+    "4. Extra/Pictures/the exhibit_grid for first floor.jpg",
+    "4. Extra/Pictures/the exhibit_grid for second floor.jpg",
+    "4. Extra/Pictures/the exhibit_outside walls.jpeg",
+    "4. Extra/Pictures/Venphira Family Estate.png",
+    "4. Extra/AB56DC2E-442D-4CAC-80BF-D3CF50A473CF_1_201_a.heic",
+    "START HERE!.md",
+    "lib/media/amaryllis-imagery.jpeg",
+    "lib/media/amaryllis-map.jpeg",
+    "lib/media/anemone-imagery.png",
+    "lib/media/anemone-map.jpeg",
+    "lib/media/edelweiss-imagery.png",
+    "lib/media/edelweiss-map.jpeg",
+    "lib/media/hollyhock-imagery.jpeg",
+    "lib/media/hollyhock-map.jpeg",
+    "lib/media/the-exhibit_outside-walls.jpeg",
+    "lib/media/the-exhibit_grid-for-first-floor.jpg",
+    "lib/media/the-exhibit_grid-for-second-floor.jpg",
+    "lib/media/npc_cyrus-vane.jpeg",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "1. Scratch Notes/Session Recaps/SESSION 1 RECAP.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 2143,
+      "exportedPath": "1.-scratch-notes/session-recaps/session-1-recap.html",
+      "dependencies": []
+    },
+    "1. Scratch Notes/Session Recaps/SESSION 2 RECAP.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1929,
+      "exportedPath": "1.-scratch-notes/session-recaps/session-2-recap.html",
+      "dependencies": []
+    },
+    "1. Scratch Notes/Session Recaps/SESSION 3 RECAP.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1601,
+      "exportedPath": "1.-scratch-notes/session-recaps/session-3-recap.html",
+      "dependencies": []
+    },
+    "1. Scratch Notes/Session Recaps/SESSION 4 RECAP.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1913,
+      "exportedPath": "1.-scratch-notes/session-recaps/session-4-recap.html",
+      "dependencies": []
+    },
+    "1. Scratch Notes/Session Recaps/SESSION 4.5 RECAP.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 859,
+      "exportedPath": "1.-scratch-notes/session-recaps/session-4.5-recap.html",
+      "dependencies": []
+    },
+    "1. Scratch Notes/Session Recaps/SESSION 5 RECAP.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1666,
+      "exportedPath": "1.-scratch-notes/session-recaps/session-5-recap.html",
+      "dependencies": []
+    },
+    "1. Scratch Notes/Session Recaps/SESSION 6 RECAP.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 512,
+      "exportedPath": "1.-scratch-notes/session-recaps/session-6-recap.html",
+      "dependencies": []
+    },
+    "1. Scratch Notes/Session Recaps/SESSION 7 RECAP.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 747,
+      "exportedPath": "1.-scratch-notes/session-recaps/session-7-recap.html",
+      "dependencies": []
+    },
+    "1. Scratch Notes/Session Recaps/SESSION 8 RECAP.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 7,
+      "exportedPath": "1.-scratch-notes/session-recaps/session-8-recap.html",
+      "dependencies": []
+    },
+    "1. Scratch Notes/Vault Upkeep.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 197,
+      "exportedPath": "1.-scratch-notes/vault-upkeep.html",
+      "dependencies": []
+    },
+    "1. Scratch Notes/Worldbuilding.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 3308,
+      "exportedPath": "1.-scratch-notes/worldbuilding.html",
+      "dependencies": []
+    },
+    "2. World/2.1 Timelines/Eora Timeline.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 38,
+      "exportedPath": "2.-world/2.1-timelines/eora-timeline.html",
+      "dependencies": []
+    },
+    "2. World/2.1 Timelines/Queens Timeline.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 37,
+      "exportedPath": "2.-world/2.1-timelines/queens-timeline.html",
+      "dependencies": []
+    },
+    "2. World/2.2 History/Events/for timeline/for timeline - queen births.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 3623,
+      "exportedPath": "2.-world/2.2-history/events/for-timeline/for-timeline-queen-births.html",
+      "dependencies": []
+    },
+    "2. World/2.2 History/Events/for timeline/for timeline - queen deaths.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 5824,
+      "exportedPath": "2.-world/2.2-history/events/for-timeline/for-timeline-queen-deaths.html",
+      "dependencies": []
+    },
+    "2. World/2.2 History/Events/for timeline/for timeline - queen rules.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 3881,
+      "exportedPath": "2.-world/2.2-history/events/for-timeline/for-timeline-queen-rules.html",
+      "dependencies": []
+    },
+    "2. World/2.2 History/Events/for timeline/for timeline - the lost one.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 480,
+      "exportedPath": "2.-world/2.2-history/events/for-timeline/for-timeline-the-lost-one.html",
+      "dependencies": []
+    },
+    "2. World/2.2 History/Events/Princess Esemone is Kidnapped.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 405,
+      "exportedPath": "2.-world/2.2-history/events/princess-esemone-is-kidnapped.html",
+      "dependencies": []
+    },
+    "2. World/2.2 History/Events/The Condemnation.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1003,
+      "exportedPath": "2.-world/2.2-history/events/the-condemnation.html",
+      "dependencies": []
+    },
+    "2. World/2.2 History/Events/The Scorched Petals.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 480,
+      "exportedPath": "2.-world/2.2-history/events/the-scorched-petals.html",
+      "dependencies": []
+    },
+    "2. World/2.3 Geography/Cities/Amaryllis.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1468,
+      "exportedPath": "2.-world/2.3-geography/cities/amaryllis.html",
+      "dependencies": [
+        "lib/media/amaryllis-imagery.jpeg",
+        "lib/media/amaryllis-map.jpeg"
+      ]
+    },
+    "2. World/2.3 Geography/Cities/Anemone.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1916,
+      "exportedPath": "2.-world/2.3-geography/cities/anemone.html",
+      "dependencies": [
+        "lib/media/anemone-imagery.png",
+        "lib/media/anemone-map.jpeg"
+      ]
+    },
+    "2. World/2.3 Geography/Cities/Edelweiss.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1589,
+      "exportedPath": "2.-world/2.3-geography/cities/edelweiss.html",
+      "dependencies": [
+        "lib/media/edelweiss-imagery.png",
+        "lib/media/edelweiss-map.jpeg"
+      ]
+    },
+    "2. World/2.3 Geography/Cities/Hollyhock.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1419,
+      "exportedPath": "2.-world/2.3-geography/cities/hollyhock.html",
+      "dependencies": [
+        "lib/media/hollyhock-imagery.jpeg",
+        "lib/media/hollyhock-map.jpeg"
+      ]
+    },
+    "2. World/2.3 Geography/Cities/Valerian.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 7,
+      "exportedPath": "2.-world/2.3-geography/cities/valerian.html",
+      "dependencies": []
+    },
+    "2. World/2.3 Geography/Landmarks/a satellite temple of The Inventor.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1228,
+      "exportedPath": "2.-world/2.3-geography/landmarks/a-satellite-temple-of-the-inventor.html",
+      "dependencies": []
+    },
+    "2. World/2.3 Geography/Landmarks/The Exhibit.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1184,
+      "exportedPath": "2.-world/2.3-geography/landmarks/the-exhibit.html",
+      "dependencies": [
+        "lib/media/the-exhibit_outside-walls.jpeg",
+        "lib/media/the-exhibit_grid-for-first-floor.jpg",
+        "lib/media/the-exhibit_grid-for-second-floor.jpg"
+      ]
+    },
+    "2. World/2.3 Geography/Landmarks/The Garden.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 23,
+      "exportedPath": "2.-world/2.3-geography/landmarks/the-garden.html",
+      "dependencies": []
+    },
+    "2. World/2.3 Geography/Landmarks/The Grand Library.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 23,
+      "exportedPath": "2.-world/2.3-geography/landmarks/the-grand-library.html",
+      "dependencies": []
+    },
+    "2. World/2.3 Geography/Landmarks/The Last Line Tavern.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 7,
+      "exportedPath": "2.-world/2.3-geography/landmarks/the-last-line-tavern.html",
+      "dependencies": []
+    },
+    "2. World/2.3 Geography/Landmarks/The Oasis.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 23,
+      "exportedPath": "2.-world/2.3-geography/landmarks/the-oasis.html",
+      "dependencies": []
+    },
+    "2. World/2.3 Geography/Landmarks/The Pacific Estate.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 23,
+      "exportedPath": "2.-world/2.3-geography/landmarks/the-pacific-estate.html",
+      "dependencies": []
+    },
+    "2. World/2.3 Geography/Landmarks/The Sky Hub.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 23,
+      "exportedPath": "2.-world/2.3-geography/landmarks/the-sky-hub.html",
+      "dependencies": []
+    },
+    "2. World/2.3 Geography/The Circles/The Development Circle.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 23,
+      "exportedPath": "2.-world/2.3-geography/the-circles/the-development-circle.html",
+      "dependencies": []
+    },
+    "2. World/2.3 Geography/The Circles/The Farming Circle.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 23,
+      "exportedPath": "2.-world/2.3-geography/the-circles/the-farming-circle.html",
+      "dependencies": []
+    },
+    "2. World/2.3 Geography/The Circles/The Manufactoring Circle.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 23,
+      "exportedPath": "2.-world/2.3-geography/the-circles/the-manufactoring-circle.html",
+      "dependencies": []
+    },
+    "2. World/2.3 Geography/The Circles/The Mining Circle.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 7,
+      "exportedPath": "2.-world/2.3-geography/the-circles/the-mining-circle.html",
+      "dependencies": []
+    },
+    "2. World/2.4 Government/2.41 Royalty/Princess Penelope.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 7,
+      "exportedPath": "2.-world/2.4-government/2.41-royalty/princess-penelope.html",
+      "dependencies": []
+    },
+    "2. World/2.4 Government/2.41 Royalty/The 13th Queen, Queen Erza.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 580,
+      "exportedPath": "2.-world/2.4-government/2.41-royalty/the-13th-queen,-queen-erza.html",
+      "dependencies": []
+    },
+    "2. World/2.4 Government/2.42 Queen's Cinders/The Queen's Cinders.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 286,
+      "exportedPath": "2.-world/2.4-government/2.42-queen's-cinders/the-queen's-cinders.html",
+      "dependencies": []
+    },
+    "2. World/2.4 Government/2.43 Speakers of Religion and Magic/Speakers of Religion and Magic.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 537,
+      "exportedPath": "2.-world/2.4-government/2.43-speakers-of-religion-and-magic/speakers-of-religion-and-magic.html",
+      "dependencies": []
+    },
+    "2. World/2.4 Government/2.44 Council of Eora/Council of Eora.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1419,
+      "exportedPath": "2.-world/2.4-government/2.44-council-of-eora/council-of-eora.html",
+      "dependencies": []
+    },
+    "2. World/2.4 Government/2.45 Ivory Guards/Ivory Guards.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1001,
+      "exportedPath": "2.-world/2.4-government/2.45-ivory-guards/ivory-guards.html",
+      "dependencies": []
+    },
+    "2. World/2.4 Government/2.46 Royal Agency of Protection/Royal Agency of Protection (AoP).md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1512,
+      "exportedPath": "2.-world/2.4-government/2.46-royal-agency-of-protection/royal-agency-of-protection-(aop).html",
+      "dependencies": []
+    },
+    "2. World/2.5 Education/Magical Universities/Esemone, Institute of the Arcana.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 199,
+      "exportedPath": "2.-world/2.5-education/magical-universities/esemone,-institute-of-the-arcana.html",
+      "dependencies": []
+    },
+    "2. World/2.5 Education/Magical Universities/Tulane School of Wizardry.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 206,
+      "exportedPath": "2.-world/2.5-education/magical-universities/tulane-school-of-wizardry.html",
+      "dependencies": []
+    },
+    "2. World/2.5 Education/Non-Magical Universities/Kindlelight University.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 104,
+      "exportedPath": "2.-world/2.5-education/non-magical-universities/kindlelight-university.html",
+      "dependencies": []
+    },
+    "2. World/2.5 Education/Non-Magical Universities/Silvervalley University.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 164,
+      "exportedPath": "2.-world/2.5-education/non-magical-universities/silvervalley-university.html",
+      "dependencies": []
+    },
+    "2. World/2.5 Education/Non-Magical Universities/Steamhelm Academy.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 186,
+      "exportedPath": "2.-world/2.5-education/non-magical-universities/steamhelm-academy.html",
+      "dependencies": []
+    },
+    "2. World/2.5 Education/Non-Magical Universities/Yellowbrick University.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 127,
+      "exportedPath": "2.-world/2.5-education/non-magical-universities/yellowbrick-university.html",
+      "dependencies": []
+    },
+    "2. World/2.5 Education/Non-Magical Universities/Zeppelin Flight Academy.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 173,
+      "exportedPath": "2.-world/2.5-education/non-magical-universities/zeppelin-flight-academy.html",
+      "dependencies": []
+    },
+    "2. World/2.5 Education/Other Forms of Education.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 592,
+      "exportedPath": "2.-world/2.5-education/other-forms-of-education.html",
+      "dependencies": []
+    },
+    "2. World/2.6 Deities/2.61 The True Gods/Emer of the Lost Soil.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 2136,
+      "exportedPath": "2.-world/2.6-deities/2.61-the-true-gods/emer-of-the-lost-soil.html",
+      "dependencies": []
+    },
+    "2. World/2.6 Deities/2.61 The True Gods/Tempest, the Waterbearer.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 2186,
+      "exportedPath": "2.-world/2.6-deities/2.61-the-true-gods/tempest,-the-waterbearer.html",
+      "dependencies": []
+    },
+    "2. World/2.6 Deities/2.61 The True Gods/Vulcan, the Inventor.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 2312,
+      "exportedPath": "2.-world/2.6-deities/2.61-the-true-gods/vulcan,-the-inventor.html",
+      "dependencies": []
+    },
+    "2. World/2.7 Organizations/2.71 Official/Circuit of Arcana.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 187,
+      "exportedPath": "2.-world/2.7-organizations/2.71-official/circuit-of-arcana.html",
+      "dependencies": []
+    },
+    "2. World/2.7 Organizations/2.71 Official/Guild of Mechanics.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 662,
+      "exportedPath": "2.-world/2.7-organizations/2.71-official/guild-of-mechanics.html",
+      "dependencies": []
+    },
+    "2. World/2.7 Organizations/2.71 Official/Woodland Clan.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 446,
+      "exportedPath": "2.-world/2.7-organizations/2.71-official/woodland-clan.html",
+      "dependencies": []
+    },
+    "2. World/2.7 Organizations/2.72 Unofficial/Black Cloak Coalition.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 59,
+      "exportedPath": "2.-world/2.7-organizations/2.72-unofficial/black-cloak-coalition.html",
+      "dependencies": []
+    },
+    "2. World/2.7 Organizations/2.72 Unofficial/The Yuan.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 58,
+      "exportedPath": "2.-world/2.7-organizations/2.72-unofficial/the-yuan.html",
+      "dependencies": []
+    },
+    "3. NPCs/the last line tavern/Cel Effie**.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 569,
+      "exportedPath": "3.-npcs/the-last-line-tavern/cel-effie**.html",
+      "dependencies": []
+    },
+    "3. NPCs/the last line tavern/Xavier Effie**.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 573,
+      "exportedPath": "3.-npcs/the-last-line-tavern/xavier-effie**.html",
+      "dependencies": []
+    },
+    "3. NPCs/Cyrus Vane**.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 507,
+      "exportedPath": "3.-npcs/cyrus-vane**.html",
+      "dependencies": [
+        "lib/media/npc_cyrus-vane.jpeg"
+      ]
+    },
+    "3. NPCs/Russel.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 7,
+      "exportedPath": "3.-npcs/russel.html",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/AB56DC2E-442D-4CAC-80BF-D3CF50A473CF_1_201_a.heic": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 68874,
+      "exportedPath": "4.-extra/pictures/ab56dc2e-442d-4cac-80bf-d3cf50a473cf_1_201_a.heic",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/AB56DC2E-442D-4CAC-80BF-D3CF50A473CF_1_201_a 1.heic": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 68874,
+      "exportedPath": "4.-extra/pictures/ab56dc2e-442d-4cac-80bf-d3cf50a473cf_1_201_a-1.heic",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/amaryllis imagery.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 931870,
+      "exportedPath": "4.-extra/pictures/amaryllis-imagery.jpeg",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/amaryllis map.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 440117,
+      "exportedPath": "4.-extra/pictures/amaryllis-map.jpeg",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/anemone imagery.png": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 370820,
+      "exportedPath": "4.-extra/pictures/anemone-imagery.png",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/anemone map.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 399497,
+      "exportedPath": "4.-extra/pictures/anemone-map.jpeg",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/black dagger.jpg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 710346,
+      "exportedPath": "4.-extra/pictures/black-dagger.jpg",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/edelweiss imagery.png": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 3578552,
+      "exportedPath": "4.-extra/pictures/edelweiss-imagery.png",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/edelweiss map.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 414401,
+      "exportedPath": "4.-extra/pictures/edelweiss-map.jpeg",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/HEIF Image.heic": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 34383,
+      "exportedPath": "4.-extra/pictures/heif-image.heic",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/HEIF Image 1.heic": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 371557,
+      "exportedPath": "4.-extra/pictures/heif-image-1.heic",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/HEIF Image 2.heic": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 238691,
+      "exportedPath": "4.-extra/pictures/heif-image-2.heic",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/hollyhock imagery.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 2241408,
+      "exportedPath": "4.-extra/pictures/hollyhock-imagery.jpeg",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/hollyhock map.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 433421,
+      "exportedPath": "4.-extra/pictures/hollyhock-map.jpeg",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/NPC_Cyrus Vane.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 308383,
+      "exportedPath": "4.-extra/pictures/npc_cyrus-vane.jpeg",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/the exhibit_grid for first floor.jpg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 274559,
+      "exportedPath": "4.-extra/pictures/the-exhibit_grid-for-first-floor.jpg",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/the exhibit_grid for second floor.jpg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 206172,
+      "exportedPath": "4.-extra/pictures/the-exhibit_grid-for-second-floor.jpg",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/the exhibit_outside walls.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 108161,
+      "exportedPath": "4.-extra/pictures/the-exhibit_outside-walls.jpeg",
+      "dependencies": []
+    },
+    "4. Extra/Pictures/Venphira Family Estate.png": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 121248,
+      "exportedPath": "4.-extra/pictures/venphira-family-estate.png",
+      "dependencies": []
+    },
+    "4. Extra/AB56DC2E-442D-4CAC-80BF-D3CF50A473CF_1_201_a.heic": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 68874,
+      "exportedPath": "4.-extra/ab56dc2e-442d-4cac-80bf-d3cf50a473cf_1_201_a.heic",
+      "dependencies": []
+    },
+    "START HERE!.md": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1072,
+      "exportedPath": "start-here!.html",
+      "dependencies": []
+    },
+    "lib/media/amaryllis-imagery.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 931870,
+      "exportedPath": "lib/media/amaryllis-imagery.jpeg",
+      "dependencies": []
+    },
+    "lib/media/amaryllis-map.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 440117,
+      "exportedPath": "lib/media/amaryllis-map.jpeg",
+      "dependencies": []
+    },
+    "lib/media/anemone-imagery.png": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 370820,
+      "exportedPath": "lib/media/anemone-imagery.png",
+      "dependencies": []
+    },
+    "lib/media/anemone-map.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 399497,
+      "exportedPath": "lib/media/anemone-map.jpeg",
+      "dependencies": []
+    },
+    "lib/media/edelweiss-imagery.png": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 3578552,
+      "exportedPath": "lib/media/edelweiss-imagery.png",
+      "dependencies": []
+    },
+    "lib/media/edelweiss-map.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 414401,
+      "exportedPath": "lib/media/edelweiss-map.jpeg",
+      "dependencies": []
+    },
+    "lib/media/hollyhock-imagery.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 2241408,
+      "exportedPath": "lib/media/hollyhock-imagery.jpeg",
+      "dependencies": []
+    },
+    "lib/media/hollyhock-map.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 433421,
+      "exportedPath": "lib/media/hollyhock-map.jpeg",
+      "dependencies": []
+    },
+    "lib/media/the-exhibit_outside-walls.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 108161,
+      "exportedPath": "lib/media/the-exhibit_outside-walls.jpeg",
+      "dependencies": []
+    },
+    "lib/media/the-exhibit_grid-for-first-floor.jpg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 274559,
+      "exportedPath": "lib/media/the-exhibit_grid-for-first-floor.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-exhibit_grid-for-second-floor.jpg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 206172,
+      "exportedPath": "lib/media/the-exhibit_grid-for-second-floor.jpg",
+      "dependencies": []
+    },
+    "lib/media/npc_cyrus-vane.jpeg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 308383,
+      "exportedPath": "lib/media/npc_cyrus-vane.jpeg",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 97492,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 7161,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 131118,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 1453328,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 704426,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 8779,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1735773702976,
+      "sourceSize": 4078891,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
